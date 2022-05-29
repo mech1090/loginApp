@@ -1,7 +1,7 @@
 {
     "port":3300,
     "database":{
-        "name":"loginA",
+        "name":"loginApp",
         "uri":"mongodb://localhost:27017"
 
     }
