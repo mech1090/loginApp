@@ -4,5 +4,8 @@
         "name":"loginApp",
         "uri":"mongodb://localhost:27017"
 
+    },
+    "hashed":{
+        "salt":10
     }
 }
